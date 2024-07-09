@@ -705,10 +705,10 @@ PlayerSettings:
     m_VersionCode: 1
     m_VersionName: 
   apiCompatibilityLevel: 6
-  cloudProjectId: 
+  cloudProjectId: ad4780de-4280-4590-9c23-cb74af5d397c
   framebufferDepthMemorylessMode: 0
-  projectName: 
-  organizationId: 
+  projectName: PomSpaceShoot
+  organizationId: pol-game
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
